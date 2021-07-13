@@ -1,24 +1,19 @@
-# Siri Installer
+# Sakir Installer
 
-### SiriUserbot Otomatik Deployer
+### SakirUserbot Otomatik Deployer
 
-[Siri UserBot Reposu](https://github.com/SiriUserBot/siriuserbot)
+[Sakir UserBot Reposu](https://github.com/SakirBey1/SakirUserBot)
 
 ## Kurulum
-```sh
-git clone https://github.com/SiriUserBot/siriuserbot 
-cd installer
-pip install -r requirements.txt
-python3 -m siri_installer
-```
+```YAKINDA...!```
 
 ### Termux Kurulum
 
-``` bash <(curl -L https://bit.ly/3tUBVha) ```
+``` YAKINDA...! ```
 
 ## Geliştiriciler
 
-[![Berce](https://github.com/must4f.png?size=100)](https://t.me/siriuserbot)
+[![SakirBey](https://avatars.githubusercontent.com/u/86895448?s=400&u=f1fb5d7ff02c8769e6b5661e56323f1b59da6c5a&v=4)](https://t.me/SakirUserBot1)
 
 ## Lisans
 Bu proje GPL-3.0 lisansı ile korunmaktadır.Tum Haklar Saklıdır
