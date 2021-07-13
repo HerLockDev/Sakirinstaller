@@ -1,5 +1,5 @@
-MESAJ="Siri İOS Otomatik Deploy Kuruluma Hoş Geldiniz"
-MESAJ+="\nTelegram: @SiriUserBot"
+MESAJ="Sakir İOS Otomatik Deploy Kuruluma Hoş Geldiniz"
+MESAJ+="\nTelegram: @SakirUserBot1"
 echo y | apk update
 clear
 echo -e $MESAJ
@@ -14,14 +14,14 @@ echo -e $MESAJ
 echo "TeleThon Yükleniyor"
 python3 -m pip install telethon
 echo "Repo klonlanıyor..."
-git clone https://github.com/ErdemBey1/Siriinstaller
+git clone https://github.com/SakirBey1/Sakir-nstaller
 clear
 echo -e $MESAJ
 clear
 echo -e $MESAJ
 echo "Gereksinimler Yükleniyor"
-cd Siriİnstaller
+cd Sakirinstaller
 python3 -m pip install wheel
 python3 -m pip install -r requirements.txt
 clear
-python3 -m siri_installer
+python3 -m sakir_installer
