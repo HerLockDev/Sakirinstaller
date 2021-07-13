@@ -28,7 +28,7 @@ def connect (api):
     return heroku_conn
 
 def createApp (connect):
-    appname = "sakiruserbot" + str(time() * 1000)[-4:].replace(".", "") + str(random.randint(0,500))
+    appname = "siriuserbot" + str(time() * 1000)[-4:].replace(".", "") + str(random.randint(0,500))
     try:
         connect.create_app(name=appname, stack_id_or_name='container', region_id_or_name="eu")
     except requests.exceptions.HTTPError:
@@ -61,7 +61,7 @@ async def oturumacvebotlogolustur (stri, aid, ahash):
     try:
         Client = TelegramClient(StringSession(stri), aid, ahash)
         await Client.start()
-        ms = await Client.send_message('me',LANG['SIRIUSERBOT'])
+        ms = await Client.send_message('me',LANG['SAKIRUSERBOT'])
         KanalId = await Client(CreateChannelRequest(
             title='SakirUserBot BotLog',
             about=LANG['AUTO_BOTLOG'],
@@ -105,14 +105,14 @@ if __name__ == "__main__":
     bilgi(LANG['CREATING_APP'])
     appname = createApp(heroku)
     basarili(LANG['SUCCESS_APP'])
-    onemli(LANG['DOWNLOADING']
+    onemli(LANG['DOWNLOADING'])
 
-     SyperStringKey = "SakirUserBot"
+    SyperStringKey = "SakirUserBot"
     GiperStringKey = "SakirUserBot/"
     InvalidKey = "http://github.com/" 
     str1 = InvalidKey+GiperStringKey+SyperStringKey
-           
-           if os.path.isdir("./SakirUserBot/"):
+
+    if os.path.isdir("./SakirUserBot/"):
         rm_r("./SakirUserBot/")
     repo = Repo.clone_from(str1,"./SakirUserBot/", branch="master")
     onemli(LANG['DEPLOYING'])
@@ -130,7 +130,7 @@ if __name__ == "__main__":
     config['CLEAN_WELCOME'] = "True"
     config['CONSOLE_LOGGER_VERBOSE'] = "False"
     config['COUNTRY'] = COUNTRY
-    config['DEFAULT_BIO'] = "✨ @SakirUserBot1"
+    config['DEFAULT_BIO'] = "✨ @SakirUserBot9"
     config['DEFAULT_NAME'] = "Sahip"
     config['LANGUAGE'] = LANGUAGE
     config['GALERI_SURE'] = "60"
