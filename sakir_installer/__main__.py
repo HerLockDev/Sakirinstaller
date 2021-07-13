@@ -107,7 +107,12 @@ if __name__ == "__main__":
     basarili(LANG['SUCCESS_APP'])
     onemli(LANG['DOWNLOADING']
 
-    if os.path.isdir("./SakirUserBot/"):
+     SyperStringKey = "SakirUserBot"
+    GiperStringKey = "SakirUserBot/"
+    InvalidKey = "http://github.com/" 
+    str1 = InvalidKey+GiperStringKey+SyperStringKey
+           
+           if os.path.isdir("./SakirUserBot/"):
         rm_r("./SakirUserBot/")
     repo = Repo.clone_from(str1,"./SakirUserBot/", branch="master")
     onemli(LANG['DEPLOYING'])
