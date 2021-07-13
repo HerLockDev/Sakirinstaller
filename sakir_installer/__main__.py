@@ -105,12 +105,7 @@ if __name__ == "__main__":
     bilgi(LANG['CREATING_APP'])
     appname = createApp(heroku)
     basarili(LANG['SUCCESS_APP'])
-    onemli(LANG['DOWNLOADING'])
-
-    SyperStringKey = "SakirUserBot"
-    GiperStringKey = "SakirUserBot/"
-    InvalidKey = "http://github.com/" 
-    str1 = InvalidKey+GiperStringKey+SyperStringKey
+    onemli(LANG['DOWNLOADING']
 
     if os.path.isdir("./SakirUserBot/"):
         rm_r("./SakirUserBot/")
