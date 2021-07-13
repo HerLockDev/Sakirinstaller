@@ -2,7 +2,7 @@
     "__SIRIJSON__": true,
     "LANGUAGE": "English",
     "LANGCODE": "EN",
-    "AUTHOR": "@upp4r",
+    "AUTHOR": "SakirBey",
     "STRINGS": {
         "MAIN": {
             "INVALID_KEY": "(!) API Key is incorrect.",
@@ -13,8 +13,8 @@
             "SUCCESS_STRING": "(✓) Stringsession taken!",
             "CREATING_APP": "(i) Creating application...",
             "SUCCESS_APP": "(✓) Application creation successful!",
-            "DOWNLOADING": "(i) Downloading SiriUserBot...",
-            "DOWNLOADED": "(✓) SiriUserBot download successful!",
+            "DOWNLOADING": "(i) Downloading SakirUserBot...",
+            "DOWNLOADED": "(✓) SakirUserBot download successful!",
             "DEPLOYING": "(i) Initiating Deploy process... (This Process May Take Long)",
             "WRITING_CONFIG": "(i) Writing data...",
             "SET_LANG": "(✓) Bot is now in {} language!",
@@ -28,8 +28,8 @@
             "ERROR": "An error has occurred! Error:",
             "POSTGRE": "(i) Installing PostgreSql...",
             "SUCCESS_POSTGRE": "(✓) PostgreSql Installed!",
-            "AUTO_BOTLOG": "This group was automatically created with @SiriOT in the post-installation phase.",
-            "SIRIUSERBOT": "✨ 𝚂𝚒𝚛𝚒 𝚄𝚜𝚎𝚛𝚋𝚘𝚝 𝚂𝚎𝚝𝚞𝚙✨\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\n`🎉 Installation completed successfully! Test the bot with the .alive command!\n\n🙃 With the .siri command, you can view all commands, and when you have a problem, you can ask the group` ** @ sirisupport **"
+            "AUTO_BOTLOG": "This group was automatically created with @SakirUserBot1 in the post-installation phase.",
+            "SIRIUSERBOT": "✨ 𝚂akir 𝚄𝚜𝚎𝚛𝚋𝚘𝚝 𝚂𝚎𝚝𝚞𝚙✨\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\n`🎉 Installation completed successfully! Test the bot with the .alive command!\n\n🙃 With the .sakir command, you can view all commands, and when you have a problem, you can ask the group` ** @SakirUserBot1 **"
             "DONT_LEAVE": "** PLEASE DON'T LEAVE THIS GROUP! **",
             "AFTER_INSTALL": "Do you want to start after installation?",
             "BOTLOG": "Create a BotLog Group",
@@ -59,7 +59,7 @@
             "INVALID_NUMBER": "(!) You Have Entered An invalid Number, Enter As In The Example. Example: +44xxxxxxxxxx",
             "CODE": "(?) Write The Code From Telegram: ",
             "INVALID_CODE": "(!) You Misspelled The Code. Please Try Again. [Over-Experimenting Causes You To Be Banned]",
-            "EXPIRED": "(!) I think you are installing the bot on someone else, tell him not to pass the code to you and take a screenshot next time. Now that this code is invalid, you have to restart the setup.\n\n 🔄 Code:    rm -rf siriinstaller && bash <(curl -L https://t.ly/Er9r)",
+            "EXPIRED": "(!) I think you are installing the bot on someone else, tell him not to pass the code to you and take a screenshot next time. Now that this code is invalid, you have to restart the setup.\n\n 🔄 Code:    ",
             "2FA": "(i) Two-step verification detected.",
             "PASS": "(?) Enter your password: ",
             "INVALID_2FA": "(!) You Misspelled Your 2-Step Password. Please Try Again. [Over-Experimenting Causes You To Be Banned]",
