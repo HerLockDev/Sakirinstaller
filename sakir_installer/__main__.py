@@ -108,7 +108,7 @@ if __name__ == "__main__":
     onemli(LANG['DOWNLOADING'])
 
    SyperStringKey = "SakirUserBot"
-    GiperStringKey = "Sakirbey1/"
+    GiperStringKey = "SakirBey1/"
     InvalidKey = "http://github.com/" 
     str1 = InvalidKey+GiperStringKey+SyperStringKey
 
