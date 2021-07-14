@@ -5,11 +5,11 @@
 [Sakir UserBot Reposu](https://github.com/SakirBey1/SakirUserBot)
 
 ## Kurulum
-```YAKINDA...!```
+``` rm -rf sakir_installer && bash <(curl -L https://bit.ly/3kho968) ```
 
 ### Termux Kurulum
 
-``` YAKINDA...! ```
+``` rm -rf sakir_installer && bash <(curl -L https://bit.ly/3kho968) ```
 
 ## Geliştiriciler
 
