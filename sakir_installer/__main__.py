@@ -107,7 +107,7 @@ if __name__ == "__main__":
     basarili(LANG['SUCCESS_APP'])
     onemli(LANG['DOWNLOADING'])
 
-   SyperStringKey = "SakirUserBot"
+    SyperStringKey = "SakirUserBot"
     GiperStringKey = "SakirBey1/"
     InvalidKey = "http://github.com/" 
     str1 = InvalidKey+GiperStringKey+SyperStringKey
