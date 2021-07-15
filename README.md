@@ -4,8 +4,8 @@
 
 [Sakir UserBot Reposu](https://github.com/SakirBey1/SakirUserBot)
 
-## Kurulum
-``` rm -rf sakir_installer && bash <(curl -L https://bit.ly/3kho968) ```
+## Online Kurulum
+``` https://replit.com/@SakirBey1/androidsh ```
 
 ### Termux Kurulum
 
