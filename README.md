@@ -5,7 +5,7 @@
 [Sakir UserBot Reposu](https://github.com/SakirBey1/SakirUserBot)
 
 ## Online Kurulum
-``` https://replit.com/@SakirBey1/androidsh ```
+https://replit.com/@SakirBey1/androidsh
 
 ### Termux Kurulum
 
