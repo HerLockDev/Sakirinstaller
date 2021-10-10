@@ -130,7 +130,7 @@ if __name__ == "__main__":
     config['CLEAN_WELCOME'] = "True"
     config['CONSOLE_LOGGER_VERBOSE'] = "False"
     config['COUNTRY'] = COUNTRY
-    config['DEFAULT_BIO'] = "✨ @SakirUserBot9"
+    config['DEFAULT_BIO'] = "✨ @UserBots0"
     config['DEFAULT_NAME'] = "Sahip"
     config['LANGUAGE'] = LANGUAGE
     config['GALERI_SURE'] = "60"
