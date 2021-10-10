@@ -1,5 +1,5 @@
 MESAJ="Sakir İOS Otomatik Deploy Kuruluma Hoş Geldiniz"
-MESAJ+="\nTelegram: @SakirUserBot1"
+MESAJ+="\nTelegram: @UserbotSupport0"
 echo y | apk update
 clear
 echo -e $MESAJ
@@ -14,7 +14,7 @@ echo -e $MESAJ
 echo "TeleThon Yükleniyor"
 python3 -m pip install telethon
 echo "Repo klonlanıyor..."
-git clone https://github.com/SakirBey1/Sakir-nstaller
+git clone https://github.com/SakirBey1/Sakirinstaller
 clear
 echo -e $MESAJ
 clear
