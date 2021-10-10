@@ -3,7 +3,7 @@
 name = "SakirUserbot_Deployer"
 version = "1.0"
 description = "Automatic Deploy SakirUserBot to Heroku"
-authors = ["SakieUserBot"]
+authors = ["SakirUserBot"]
 [tool.poetry.dependencies]
 python = "^3.8"
 bs4 = "*"
